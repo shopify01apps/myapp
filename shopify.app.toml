@@ -3,7 +3,7 @@
 client_id = "54dbcb87db6101444ef1ce9b7928dd98"
 name = "myapp"
 handle = "myapp-1141"
-application_url = "https://myapp-1e4e.onrender.com"
+application_url = "https://myapp-1e4e.onrender.com/"
 embedded = true
 
 [build]
