@@ -3,7 +3,9 @@
 client_id = "54dbcb87db6101444ef1ce9b7928dd98"
 name = "myapp"
 handle = "myapp-1141"
-application_url = "https://example.com/"
+
+application_url = "https://myapp-1e4e.onrender.com/"
+
 embedded = true
 
 [build]
@@ -26,7 +28,8 @@ api_version = "2025-04"
 scopes = "write_products"
 
 [auth]
-redirect_urls = [ "https://example.com/api/auth" ]
+redirect_urls = [ "https://myapp-1e4e.onrender.com/api/auth" ]
+
 
 [pos]
 embedded = false
